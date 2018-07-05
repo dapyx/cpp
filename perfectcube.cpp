@@ -1,3 +1,7 @@
+// This is an wellknow version of the perfect vube problem
+// Author: Marius Iulian Mihailescu
+// Published on: https://www.codeproject.com/Articles/35670/Perfect-Cube
+
 #include <stdio.h>
 
 long cube[101];
